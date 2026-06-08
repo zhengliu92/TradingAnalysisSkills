@@ -1,0 +1,4 @@
+interface:
+  display_name: "TradingAgents Analysis"
+  short_description: "Run TradingAgents-style market analysis"
+  default_prompt: "Use $tradingagents-analysis to analyze NVDA for 2026-01-15 with the current Codex model and write a concise trading decision."
