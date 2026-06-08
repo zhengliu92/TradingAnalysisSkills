@@ -14,11 +14,13 @@ Install with the open skills CLI:
 npx skills add zhengliu92/TradingAnalysisSkills
 ```
 
-Install globally:
+Optional global install:
 
 ```bash
 npx skills add zhengliu92/TradingAnalysisSkills -g
 ```
+
+Some agents do not support global skill installation. If the CLI reports that one target agent was skipped, the skill can still be installed for supported agents such as Codex.
 
 List available skills in this repository:
 
